@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Krishna Kumar Sahu | Reg: 24MIM10150
+# Author: ALVIYA KAZMI | Reg: 24MEI10100
 # Course: Open Source Software (OSS NGMC)
 # Purpose: Check if a FOSS package is installed, show its info,
 #          and display a philosophy note about the software.
