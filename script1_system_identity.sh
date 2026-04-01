@@ -1,12 +1,12 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Krishna Kumar Sahu | Reg: 24MIM10150
+# Author: ALVIYA KAZMI | Reg: 24MEI10100
 # Course: Open Source Software (OSS NGMC)
 # Purpose: Display a formatted system identity welcome screen
 
 # ─── Variables ───────────────────────────────────────────────
-STUDENT_NAME="Krupa Kotecha"
-REG_NUMBER="24BCE11262"
+STUDENT_NAME="Alviya Kazmi"
+REG_NUMBER="24MEI10100"
 SOFTWARE_CHOICE="MySQL"
 
 # Capture system info using command substitution $()
