@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 5: Open Source Manifesto Generator
-# Author: Krishna Kumar Sahu | Reg: 24MIM10150
+# Author: ALVIYA KAZMI | Reg: 24MEI10100
 # Course: Open Source Software (OSS NGMC)
 # Purpose: Generate a personalised open-source philosophy statement
 #          by collecting user input and composing a reflective paragraph.
