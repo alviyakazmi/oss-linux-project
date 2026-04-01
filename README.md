@@ -1,4 +1,4 @@
-# oss-audit-24MIM10150
+# oss-audit-24MEI10100
 
 **Open Source Audit — MySQL**  
 Capstone Project | Open Source Software (OSS NGMC)
@@ -9,8 +9,8 @@ Capstone Project | Open Source Software (OSS NGMC)
 
 | Field | Value |
 |---|---|
-| Name | Krupa Kotecha|
-| Registration Number | 24BCE11262 |
+| Name | ALVIYA KAZMI|
+| Registration Number | 24MEI10100 |
 | Software Audited | MySQL (Community Edition — GPL v2) |
 
 ---
